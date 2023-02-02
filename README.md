@@ -8,7 +8,7 @@ This project is the fifth challenge assignmet for boot camp students. In this pr
 
 To use the work day scheduler application, click into a timer block, then enter an event. Finally, click the save button for the specific time block.
 
-![Deployed webpage](assets/Deployed-webpage.png)
+![Deployed webpage](Assets/Deployed-webpage.png)
 
 ## Credits
 
