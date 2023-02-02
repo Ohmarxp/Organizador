@@ -8,11 +8,11 @@ This project is the fifth challenge assignmet for boot camp students. In this pr
 
 To use the work day scheduler application, click into a timer block, then enter an event. Finally, click the save button for the specific time block.
 
-![Deployed webpage](assets/images/)
+![Deployed webpage](assets/Deployed-webpage.png)
 
 ## Credits
 
-Link to deployed application: 
+Link to deployed application: https://ohmarxp.github.io/Organizador/
 
 Starter code can be found here: https://github.com/coding-boot-camp/crispy-octo-meme
 
